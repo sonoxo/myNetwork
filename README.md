@@ -1,5 +1,24 @@
 <div align="center">
 
+![myNetwork system](docs/assets/sonoxo-system.svg)
+
+</div>
+
+## Understand it in 30 seconds
+
+myNetwork takes a network range you are authorized to inspect, discovers reachable devices, checks selected services, and lets you review or export the results. Everything runs locally; scanning another person's network without permission is outside the intended use.
+
+| Stage | What happens |
+|---|---|
+| Range | Choose your own LAN or approved address range. |
+| Discover | Find responding devices and resolve available names. |
+| Inspect | Check TCP/UDP services using the selected scan mode. |
+| Export | Save results for troubleshooting or an authorized audit. |
+
+---
+
+<div align="center">
+
 <img src="build/icon.svg" width="104" alt="myNetwork" />
 
 # myNetwork
